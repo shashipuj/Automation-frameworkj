@@ -12,6 +12,7 @@ public class mavenDemoTest {
 	public void demo()
 	{
 		System.out.println("This is Demo");
+		System.out.println("Hello ");
 	}
 	
 	@Test
